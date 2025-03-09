@@ -119,7 +119,7 @@ namespace example_of_basics_in_Class
             Console.WriteLine($"You i.e,'{name}':- Put supressor on the {weapon}");
             Console.WriteLine($"Press Enter to shoot with your {weapon}");
             Console.ReadKey();
-            // To be wrote
+            // To be written
         }
 
         public void Quick_Match(string _name_)
